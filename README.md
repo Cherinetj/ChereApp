@@ -22,4 +22,16 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+###This is my Markdown practice
+-First commit
+-Second commit
+-Third commit
+-Fourth commit
+#Code example
+```ruby
+def new_code
+puts"Hello"
+end
+
+```
 
