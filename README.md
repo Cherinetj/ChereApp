@@ -25,13 +25,13 @@ Things you may want to cover:
 
 ### This is my Markdown practice
 
--First commit
+*First commit
 
--Second commit
+*Second commit
 
--Third commit
+*Third commit
 
--Fourth commit
+*Fourth commit
 
 # Code example
 

@@ -20,5 +20,5 @@
 # Ignore Byebug command history file.
 .byebug_history
 
-#I don't want to show my secrets
+#I don't want to show my secrets(This line is addeded by Cherinet)
 /config/secrets.yml
