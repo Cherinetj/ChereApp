@@ -26,9 +26,13 @@ Things you may want to cover:
 ### This is my Markdown practice
 
 -First commit
+
 -Second commit
+
 -Third commit
+
 -Fourth commit
+
 # Code example
 
 ```ruby
