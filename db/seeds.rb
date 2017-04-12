@@ -1,7 +1,8 @@
 10.times do |blog|
 	Blog.create!(
-    title: "HellO",
-    body: "This is my new title #{blog}"
+    title: "My blog title #{blog}",
+    body: "Here is what I am pasting in my section to do everything to work correcty
+           It is very important that we unerstand how this works. "
 
 		)
 end
@@ -12,7 +13,8 @@ puts "10 blog posts created"
     Portfolio.create!(
      title: "My Portfolio item #{portfolio_item}",
      subtitle:"My subtitle",
-     body:"Here is the thing",
+     body:"  Here is what I am pasting in my section to do everything to work correcty
+             It is very important that we unerstand how this works. ",
      main_image: "https://placehold.it/140x100",
      thumb_image:"https://placehold.it/100x100",
 
